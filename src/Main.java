@@ -3,5 +3,7 @@ public class Main {
 
         System.out.println("Assalomu alekum !!!");
 
+        System.out.println("Valekum assalom !!!");
+
     }
 }
