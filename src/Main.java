@@ -5,7 +5,7 @@ public class Main {
 
         System.out.println("Valekum assalom !!!");
 
-        System.out.println("Kerakmas");
+        System.out.println("qweqweqweqweqwe");
 
         System.out.println("Man ozgaitirsh qildim");
 
