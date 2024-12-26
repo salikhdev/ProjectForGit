@@ -4,4 +4,8 @@ public class Math {
         System.out.println("Max");
     }
 
+    public void min(int a, int b) {
+        System.out.println("Min");
+    }
+
 }
