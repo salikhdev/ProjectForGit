@@ -9,5 +9,7 @@ public class Main {
 
         System.out.println("Man ozgaitirsh qildim");
 
+        System.out.println("Mening ismim Xusan");
+
     }
 }
