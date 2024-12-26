@@ -7,5 +7,7 @@ public class Main {
 
         System.out.println("Kerakmas");
 
+        System.out.println("Man ozgaitirsh qildim");
+
     }
 }
